@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ApplicationOptionMenu</string>
+    <string name="text_setting">Setting</string>
+    <string name="text_logout">Logout</string>
+    <string name="text_search">Search</string>
+</resources>
